@@ -1,14 +1,16 @@
 # Turing_machine
-##To run use Source.cpp 
+## To run use Source.cpp 
 
-###Output forms in file out.txt
+### Output forms in file out.txt
 
-###Rules are in file in.txt
+### Rules are in file in.txt
 
-###Descriotion of in.txt
-_111_111___________________ - input line
+### Descriotion of in.txt
+* > _111_111___________________ 
+- input line
 
-1_ - alfabet
+* >1_ 
+* - alfabet
 
 ...
 
@@ -26,10 +28,13 @@ _111_111___________________ - input line
 
 ...
 
-*** Q description
+### Q description  
+
   First q is 1 
-  Finish(stop) q is 0
+  
+  Finish(stop) q is 0  
+  
     * ACII : - is ACII 0 + 10
     * ACII ; - is ACII 0 + 11
     * ACII < - is ACII 0 + 12
-    *q max is acii max - 0
+    * q max is acii max - 0
