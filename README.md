@@ -1,32 +1,21 @@
 # Turing_machine
-## To run use Source.cpp 
 
-### Output forms in file out.txt
+1 To run use Source.cpp 
 
-### Rules are in file in.txt
+2 Output forms in file out.txt
 
-### Descriotion of in.txt
-* > _111_111___________________ 
-- input line
+3 Rules are in file in.txt
 
-* >1_ 
-* - alfabet
+### Descriotion of in.txt  
 
-...
-
-* > q9_->q41R 
-- if 9q and symbol _ come 4q,Rigth move on line changing symbol _ to 1
-
-* > q:1->q:1L 
-- if 10q and symbol 1 come 10q,Left move on line changing symbol 1 to 1
-
-* > q:_->q;_L
- - if 10q and symbol 1 come 11q,Left move on line changing symbol _ to _
-
-* > q;1->q<1L 
-- if 11q and symbol 1 come 12q,Left move on line changing symbol 1 to 1
-
-...
+   *  _111_111___________________  - input line
+   * 1_ - alfabet
+   * ...
+   * q9_->q41R - if 9q and symbol _ come 4q,Rigth move on line changing symbol _ to 1
+   * q:1->q:1L - if 10q and symbol 1 come 10q,Left move on line changing symbol 1 to 1
+   * q:_->q;_L - if 10q and symbol 1 come 11q,Left move on line changing symbol _ to _
+   * q;1->q<1L - if 11q and symbol 1 come 12q,Left move on line changing symbol 1 to 1
+   * ...
 
 ### Q description  
 
